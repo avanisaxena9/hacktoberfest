@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Avani Saxena](https://github.com/avanisaxena9)
+- Place: Madhya Pradesh, India
+- Bio: Frontend developer and open source enthusiast
+- Github: [avanisaxena9](https://github.com/avanisaxena9)
